@@ -5,9 +5,6 @@ import TaskDetail from './TaskDetail';
 import TaskCreation from './TaskCreation';
 
 function App() {
-  const deleteTask = (taskId) => {
-    // setTasks(tasks.filter((task) => task.id !== taskId));
-  };
 
   return (
     <Router>
