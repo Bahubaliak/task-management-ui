@@ -9,7 +9,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<TaskList deleteTask={deleteTask} />} />
+        <Route path="/" element={<TaskList />} />
         <Route path="/tasks/:id" element={<TaskDetail />} />
         <Route path="/tasks/new" element={<TaskCreation />} />
       </Routes>
