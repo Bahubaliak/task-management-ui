@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Bahubaliak/task-management-ui/static/css/main.e6c13ad2.css",
-    "main.js": "/Bahubaliak/task-management-ui/static/js/main.2c1c0fec.js",
+    "main.js": "/Bahubaliak/task-management-ui/static/js/main.90c29955.js",
     "static/js/592.28d64ac4.chunk.js": "/Bahubaliak/task-management-ui/static/js/592.28d64ac4.chunk.js",
     "index.html": "/Bahubaliak/task-management-ui/index.html",
     "main.e6c13ad2.css.map": "/Bahubaliak/task-management-ui/static/css/main.e6c13ad2.css.map",
-    "main.2c1c0fec.js.map": "/Bahubaliak/task-management-ui/static/js/main.2c1c0fec.js.map",
+    "main.90c29955.js.map": "/Bahubaliak/task-management-ui/static/js/main.90c29955.js.map",
     "592.28d64ac4.chunk.js.map": "/Bahubaliak/task-management-ui/static/js/592.28d64ac4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.2c1c0fec.js"
+    "static/js/main.90c29955.js"
   ]
 }
